@@ -1,0 +1,4 @@
+services:
+  monitor:
+    build: .
+    image: my-script
